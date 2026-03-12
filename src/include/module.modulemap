@@ -1,0 +1,4 @@
+module Clibgpod {
+    umbrella header "shim.h"
+    export *
+}

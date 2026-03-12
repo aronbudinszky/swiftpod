@@ -122,3 +122,5 @@ bindings/mono/libgpod-sharp/libgpod-sharp.pidb
 /tools/ipod-set-info
 /tools/ipod-time-sync
 /tools/libgpod-callout
+/.swiftpm
+/.DS_Store

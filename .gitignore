@@ -124,3 +124,4 @@ bindings/mono/libgpod-sharp/libgpod-sharp.pidb
 /tools/libgpod-callout
 /.swiftpm
 /.DS_Store
+/Sources/.DS_Store
